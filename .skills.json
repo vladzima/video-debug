@@ -1,0 +1,9 @@
+{
+  "name": "video-debug",
+  "version": "0.1.0",
+  "description": "Debug UI bugs from screencasts. Extracts key frames via ffmpeg scene detection so coding agents can visually inspect what went wrong.",
+  "agents": ["claude-code", "codex", "cursor", "windsurf"],
+  "dependencies": {
+    "system": ["ffmpeg"]
+  }
+}
