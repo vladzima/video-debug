@@ -14,6 +14,8 @@ The skill runs `ffmpeg` scene detection locally, extracts only the frames where 
 
 No new server. No new API key. No new login. Just a folder of bash + ffmpeg.
 
+![video-debug in action](https://cdn.arbatov.dev/ZHIWGjUIas6GeyHUcWNRjLg0V.png)
+
 ## Install
 
 ### Via the skills.sh registry
